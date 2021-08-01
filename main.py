@@ -3,7 +3,7 @@ import telebot
 from telebot import types
 
 #Request to the system to receive a variable token
-TOKEN ='1947632128:AAFre6DoHnkvArMCZpzQpGLA8KJrXeJ3gfA'
+TOKEN =''
 bot = telebot.TeleBot(TOKEN)
 
 #Picture output function
